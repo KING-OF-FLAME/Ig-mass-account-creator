@@ -31,10 +31,6 @@ The Instagram Mass Account Creator Tool automates the process of creating Instag
 
 You need to have ChromeDriver installed on your system which matches your Chrome browser's version.
 
-- **Windows:**
-  Download ChromeDriver from [here](##### ChromeDriver:
-
-You need to have ChromeDriver installed on your system which matches your Chrome browser's version.
 
 - **Windows:**
   Download ChromeDriver from [here](https://chromedriver.chromium.org/home). Unzip the downloaded file and place it in a known directory, e.g., `C:\Webdrivers`.
