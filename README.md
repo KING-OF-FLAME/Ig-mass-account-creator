@@ -70,12 +70,11 @@ After installation, execute the `main.py` script in your terminal or command pro
 
 -------------------------------------------------
 
-## Features 📍
+## Limitation 📍
 
-- **Automated Account Creation**: Generates new Instagram accounts automatically.
-- **IP Rotation**: Manages IP rotation to avoid detection and bans.
-- **CAPTCHA Solving**: Integrates solutions for automated CAPTCHA solving.
-- **Extensibility**: Easy to modify and extend with additional modules or functionality.
+-**IP Rotation:** Not available.
+-**reCAPTCHA Solving:** No automated reCAPTCHA bypass; manual solving is required.
+-**OTP Fetching:** Does not automatically fetch OTP from email due to reCAPTCHA.
 
 -------------------------------------------------
 
