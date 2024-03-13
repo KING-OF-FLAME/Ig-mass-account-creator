@@ -1,95 +1,75 @@
-## Instagram Mass Account Creator Tool
+## Keyword Suggestions Tool
 
 <p align="center">
-  <img src="path/to/logo/image">
+  <img src="https://i.ibb.co/RDcvHJL/DALL-E-2023-12-30-10-47-06-Design-a-professional-logo-for-an-Auto-Keyword-Suggestion-Tool-including.png">
 </p>
 
-[![Repo Size](https://img.shields.io/github/repo-size/KING-OF-FLAME/Ig-mass-account-creator?style=flat-square&color=orange)](https://github.com/KING-OF-FLAME/Ig-mass-account-creator)
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/KING-OF-FLAME/Ig-mass-account-creator)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/KING-OF-FLAME/Ig-mass-account-creator/graphs/commit-activity)
+[![Repo Size](https://img.shields.io/github/repo-size/KING-OF-FLAME/keyword_suggestions_tool?style=flat-square&color=orange)](https://github.com/KING-OF-FLAME/keyword_suggestions_tool)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/KING-OF-FLAME/keyword_suggestions_tool)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/KING-OF-FLAME/keyword_suggestions_tool/graphs/commit-activity)
 
 -------------------------------------------------
 
 ## About The Project 📍
 
-The Instagram Mass Account Creator Tool automates the process of creating Instagram accounts. It manages IP rotation and automates CAPTCHA solving, facilitating the creation of multiple accounts efficiently.
+The Keyword Suggestions Tool is an innovative web application designed to extract auto suggestions from Google and YouTube. It compares these suggestions and highlights common keywords, providing invaluable insights for SEO and content strategies.
 
 -------------------------------------------------
 
 ### Getting Started
 
-#### Prerequisites
+To run this project on your local machine:
 
-- Python 3.x
-- Selenium
-- Requests
-- Faker
+1. **Set up a PHP server**:
+   - If you don't have one, install a local server environment like XAMPP, WAMP, or MAMP.
 
-#### Installation
+2. **Navigate to the `htdocs` directory**:
+   - Open your command line or terminal.
+   - Navigate to the `htdocs` directory in your XAMPP installation. For example, `cd C:\xampp\htdocs` on Windows.
 
-##### Windows:
+3. **Clone the repository**:
+   - Run the command: `git clone https://github.com/KING-OF-FLAME/keyword_suggestions_tool.git`.
 
-1. Clone the repository: `git clone https://github.com/KING-OF-FLAME/Ig-mass-account-creator.git`.
-2. Navigate to the cloned directory: `cd Ig-mass-account-creator`.
-3. Install the required Python libraries: `pip install -r requirements.txt`.
-4. Run the script: `python main.py`.
+4. **Start the server and navigate**:
+   - Launch your PHP server and visit `http://localhost/keyword_suggestions_tool` in your browser.
 
-##### macOS/Linux:
-
-1. Clone the repository: `git clone https://github.com/KING-OF-FLAME/Ig-mass-account-creator.git`.
-2. Navigate to the cloned directory: `cd Ig-mass-account-creator`.
-3. Ensure Python 3.x is installed: `python3 --version`.
-4. Install the required Python libraries: `pip3 install -r requirements.txt`.
-5. Run the script: `python3 main.py`.
-
-#### Running the Tool
-
-After installation, execute the `main.py` script in your terminal or command prompt. The script will begin creating accounts using the provided configurations.
+Start exploring by entering keywords and get immediate suggestions from Google and YouTube.
 
 -------------------------------------------------
 
 ## Features 📍
 
-- **Automated Account Creation**: Generates new Instagram accounts automatically.
-- **IP Rotation**: Manages IP rotation to avoid detection and bans.
-- **CAPTCHA Solving**: Integrates solutions for automated CAPTCHA solving.
-- **Extensibility**: Easy to modify and extend with additional modules or functionality.
+- **Auto Suggestions Extraction**: Fetches trending searches from Google and YouTube.
+- **Comparison of Keywords**: Identifies and displays common keywords from both platforms.
+- **User Input**: Custom query input allows for personalized keyword research.
 
 -------------------------------------------------
 
 ## Usage 📍
 
-To use the tool, simply execute the `main.py` script from your command line. The script will proceed to generate accounts based on predefined configurations and parameters.
+1. Clone the repository: `git clone https://github.com/KING-OF-FLAME/keyword_suggestions_tool.git`
+2. Navigate to the project directory.
+3. Open `index.php` in a web browser or access the project via your local server (e.g., `http://localhost/keyword_suggestions_tool`).
 
--------------------------------------------------
-
-## Video Demonstration 📍
-
-For a more detailed overview and a live demonstration of the Instagram Mass Account Creator in action, please watch the following video:
-
-<p align="center">
-  <a href="URL_TO_VIDEO">
-    <img src="path/to/thumbnail" alt="Video Demonstration">
-  </a>
-</p>
+For online deployment, upload the project files to a web server and access via your domain (e.g., `https://iamyashraj.com/`).
 
 -------------------------------------------------
 
 ## Contributions 📍
 
-We welcome contributions to improve the Instagram Mass Account Creator. Feel free to fork the repository, make changes, and submit pull requests.
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 -------------------------------------------------
 
 ## Contact 📍
 
-[KING-OF-FLAME](https://github.com/KING-OF-FLAME) - Creator and Maintainer
+[KING OF FLAME](https://github.com/KING-OF-FLAME) - Creator and Maintainer
+
+Instagram: [yash.developer](https://instagram.com/yash.developer)
 
 -------------------------------------------------
+
 
 ## Acknowledgments 📍
 
-- Thanks to all the libraries and tools that make this project possible.
-- Special thanks to the community for their suggestions and contributions.
-
--------------------------------------------------
+- Special thanks to all contributors and supporters of this project!
