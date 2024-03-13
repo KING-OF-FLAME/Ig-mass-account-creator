@@ -4,9 +4,9 @@
   <img src="path/to/logo/image">
 </p>
 
-[![Repo Size](https://img.shields.io/github/repo-size/YourUsername/instagram_mass_account_creator?style=flat-square&color=orange)](https://github.com/YourUsername/instagram_mass_account_creator)
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/YourUsername/instagram_mass_account_creator)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/YourUsername/instagram_mass_account_creator/graphs/commit-activity)
+[![Repo Size](https://img.shields.io/github/repo-size/KING-OF-FLAME/Ig-mass-account-creator?style=flat-square&color=orange)](https://github.com/KING-OF-FLAME/Ig-mass-account-creator)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/KING-OF-FLAME/Ig-mass-account-creator)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/KING-OF-FLAME/Ig-mass-account-creator/graphs/commit-activity)
 
 -------------------------------------------------
 
@@ -29,15 +29,15 @@ The Instagram Mass Account Creator Tool automates the process of creating Instag
 
 ##### Windows:
 
-1. Clone the repository: `git clone https://github.com/YourUsername/instagram_mass_account_creator.git`.
-2. Navigate to the cloned directory: `cd instagram_mass_account_creator`.
+1. Clone the repository: `git clone https://github.com/KING-OF-FLAME/Ig-mass-account-creator.git`.
+2. Navigate to the cloned directory: `cd Ig-mass-account-creator`.
 3. Install the required Python libraries: `pip install -r requirements.txt`.
 4. Run the script: `python main.py`.
 
 ##### macOS/Linux:
 
-1. Clone the repository: `git clone https://github.com/YourUsername/instagram_mass_account_creator.git`.
-2. Navigate to the cloned directory: `cd instagram_mass_account_creator`.
+1. Clone the repository: `git clone https://github.com/KING-OF-FLAME/Ig-mass-account-creator.git`.
+2. Navigate to the cloned directory: `cd Ig-mass-account-creator`.
 3. Ensure Python 3.x is installed: `python3 --version`.
 4. Install the required Python libraries: `pip3 install -r requirements.txt`.
 5. Run the script: `python3 main.py`.
@@ -83,7 +83,7 @@ We welcome contributions to improve the Instagram Mass Account Creator. Feel fre
 
 ## Contact 📍
 
-[YourUsername](https://github.com/YourUsername) - Creator and Maintainer
+[KING-OF-FLAME](https://github.com/KING-OF-FLAME) - Creator and Maintainer
 
 -------------------------------------------------
 
