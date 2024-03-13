@@ -37,7 +37,7 @@ You need to have ChromeDriver installed on your system which matches your Chrome
 You need to have ChromeDriver installed on your system which matches your Chrome browser's version.
 
 - **Windows:**
-  Download ChromeDriver from [here](https://sites.google.com/a/chromium.org/chromedriver/). Unzip the downloaded file and place it in a known directory, e.g., `C:\Webdrivers`.
+  Download ChromeDriver from [here](https://chromedriver.chromium.org/home). Unzip the downloaded file and place it in a known directory, e.g., `C:\Webdrivers`.
 
 - **macOS/Linux:**
   You can install ChromeDriver using Homebrew on macOS or your distribution's package manager on Linux. For macOS:
