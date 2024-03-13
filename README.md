@@ -88,7 +88,7 @@ To use the tool, simply execute the `main.py` script from your command line. The
 
 For a more detailed overview and a live demonstration of the Instagram Mass Account Creator in action, please watch the following video:
 
-## [![Watch the video](https://player.vimeo.com/video/922951685)
+## [Watch the video]([https://player.vimeo.com/video/922951685](https://player.vimeo.com/video/922951685?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479))
 
 
 -------------------------------------------------
