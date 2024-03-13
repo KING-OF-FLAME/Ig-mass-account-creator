@@ -27,6 +27,18 @@ The Instagram Mass Account Creator Tool automates the process of creating Instag
 
 #### Installation
 
+##### ChromeDriver:
+
+You need to have ChromeDriver installed on your system which matches your Chrome browser's version.
+
+- **Windows:**
+  Download ChromeDriver from [here](https://sites.google.com/a/chromium.org/chromedriver/). Unzip the downloaded file and place it in a known directory, e.g., `C:\Webdrivers`.
+
+- **macOS/Linux:**
+  You can install ChromeDriver using Homebrew on macOS or your distribution's package manager on Linux. For macOS:
+  ```bash
+  brew install --cask chromedriver
+
 ##### Windows:
 
 1. Clone the repository: `git clone https://github.com/KING-OF-FLAME/Ig-mass-account-creator.git`.
