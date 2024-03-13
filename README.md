@@ -1,7 +1,7 @@
 ## Instagram Mass Account Creator Tool
 
 <p align="center">
-  <img src="path/to/logo/image" alt="Logo">
+  <img src="https://i.ibb.co/gzwCWRB/DALL-E-2024-03-13-20-40-42-Create-a-fictional-social-media-logo-inspired-by-contemporary-design-tren.png" alt="Logo">
 </p>
 
 [![Repo Size](https://img.shields.io/github/repo-size/KING-OF-FLAME/Ig-mass-account-creator?style=flat-square&color=orange)](https://github.com/KING-OF-FLAME/Ig-mass-account-creator)
