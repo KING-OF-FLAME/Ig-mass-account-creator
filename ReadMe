@@ -1,1 +1,95 @@
-pip install requests stem
+## Instagram Mass Account Creator Tool
+
+<p align="center">
+  <img src="path/to/logo/image">
+</p>
+
+[![Repo Size](https://img.shields.io/github/repo-size/YourUsername/instagram_mass_account_creator?style=flat-square&color=orange)](https://github.com/YourUsername/instagram_mass_account_creator)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/YourUsername/instagram_mass_account_creator)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/YourUsername/instagram_mass_account_creator/graphs/commit-activity)
+
+-------------------------------------------------
+
+## About The Project 📍
+
+The Instagram Mass Account Creator Tool automates the process of creating Instagram accounts. It manages IP rotation and automates CAPTCHA solving, facilitating the creation of multiple accounts efficiently.
+
+-------------------------------------------------
+
+### Getting Started
+
+#### Prerequisites
+
+- Python 3.x
+- Selenium
+- Requests
+- Faker
+
+#### Installation
+
+##### Windows:
+
+1. Clone the repository: `git clone https://github.com/YourUsername/instagram_mass_account_creator.git`.
+2. Navigate to the cloned directory: `cd instagram_mass_account_creator`.
+3. Install the required Python libraries: `pip install -r requirements.txt`.
+4. Run the script: `python main.py`.
+
+##### macOS/Linux:
+
+1. Clone the repository: `git clone https://github.com/YourUsername/instagram_mass_account_creator.git`.
+2. Navigate to the cloned directory: `cd instagram_mass_account_creator`.
+3. Ensure Python 3.x is installed: `python3 --version`.
+4. Install the required Python libraries: `pip3 install -r requirements.txt`.
+5. Run the script: `python3 main.py`.
+
+#### Running the Tool
+
+After installation, execute the `main.py` script in your terminal or command prompt. The script will begin creating accounts using the provided configurations.
+
+-------------------------------------------------
+
+## Features 📍
+
+- **Automated Account Creation**: Generates new Instagram accounts automatically.
+- **IP Rotation**: Manages IP rotation to avoid detection and bans.
+- **CAPTCHA Solving**: Integrates solutions for automated CAPTCHA solving.
+- **Extensibility**: Easy to modify and extend with additional modules or functionality.
+
+-------------------------------------------------
+
+## Usage 📍
+
+To use the tool, simply execute the `main.py` script from your command line. The script will proceed to generate accounts based on predefined configurations and parameters.
+
+-------------------------------------------------
+
+## Video Demonstration 📍
+
+For a more detailed overview and a live demonstration of the Instagram Mass Account Creator in action, please watch the following video:
+
+<p align="center">
+  <a href="URL_TO_VIDEO">
+    <img src="path/to/thumbnail" alt="Video Demonstration">
+  </a>
+</p>
+
+-------------------------------------------------
+
+## Contributions 📍
+
+We welcome contributions to improve the Instagram Mass Account Creator. Feel free to fork the repository, make changes, and submit pull requests.
+
+-------------------------------------------------
+
+## Contact 📍
+
+[YourUsername](https://github.com/YourUsername) - Creator and Maintainer
+
+-------------------------------------------------
+
+## Acknowledgments 📍
+
+- Thanks to all the libraries and tools that make this project possible.
+- Special thanks to the community for their suggestions and contributions.
+
+-------------------------------------------------
