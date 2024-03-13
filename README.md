@@ -99,6 +99,9 @@ For a more detailed overview and a live demonstration of the Instagram Mass Acco
 ## Contributions 📍
 
 We welcome contributions to improve the Instagram Mass Account Creator. Feel free to fork the repository, make changes, and submit pull requests.
+**Fork this repo.**
+**Add new features.**
+**Create a new pull request for this branch.**
 
 -------------------------------------------------
 
