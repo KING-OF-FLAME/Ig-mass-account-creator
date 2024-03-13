@@ -101,10 +101,14 @@ We welcome contributions to improve the Instagram Mass Account Creator. Feel fre
 ## Contact 📍
 
 [KING-OF-FLAME](https://github.com/KING-OF-FLAME) - Creator and Maintainer
-## Contact 📍
 
-[![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://instagram.com/yash.developer)
-[![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg)](https://t.me/thekingofflame786)
+
+<a href="https://instagram.com/yourusername">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="32" height="32"/>
+</a>
+<a href="https://t.me/yourusername">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Telegram" width="32" height="32"/>
+</a>
 
 
 -------------------------------------------------
