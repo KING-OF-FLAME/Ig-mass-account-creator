@@ -72,9 +72,9 @@ After installation, execute the `main.py` script in your terminal or command pro
 
 ## Limitation 📍
 
--**IP Rotation:** Not available.
--**reCAPTCHA Solving:** No automated reCAPTCHA bypass; manual solving is required.
--**OTP Fetching:** Does not automatically fetch OTP from email due to reCAPTCHA.
+- **IP Rotation:** Not available.
+- **reCAPTCHA Solving:** No automated reCAPTCHA bypass; manual solving is required.
+- **OTP Fetching:** Does not automatically fetch OTP from email due to reCAPTCHA.
 
 -------------------------------------------------
 
@@ -96,9 +96,9 @@ For a more detailed overview and a live demonstration of the Instagram Mass Acco
 ## Contributions 📍
 
 We welcome contributions to improve the Instagram Mass Account Creator. Feel free to fork the repository, make changes, and submit pull requests.
-**Fork this repo.**
-**Add new features.**
-**Create a new pull request for this branch.**
+- **Fork this repo.**
+- **Add new features.**
+- **Create a new pull request for this branch.**
 
 -------------------------------------------------
 
