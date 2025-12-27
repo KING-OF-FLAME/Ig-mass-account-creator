@@ -1,4 +1,4 @@
-## Instagram Mass Account Creator Tool
+## Instagram Mass Account Creator Tool [ Project has been closed :( ]
 
 <p align="center">
   <img src="https://i.ibb.co/KF7Hsr3/DALL-E-2024-03-13-20-40-42-Create-a-fictional-social-media-logo-inspired-by-contemporary-design-tren.png" alt="Logo">
